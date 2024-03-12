@@ -1,0 +1,76 @@
+/* ===== SITE LAYOUT =================== */
+	.jv-page-content {font-family: Poppins; font-weight: 400; font-size: 0.875rem;}
+	.jv-logo {display: none;}
+  .jv-page-content h2 {color: #23569a; display: none;}
+  .jv-page-content h3 {font-family: Barlow; text-transform: uppercase; font-weight: 700; color: #23569a; letter-spacing: -0.0375rem; font-size: 1.875rem;}
+	.jv-job-list {margin-top: 1rem; margin-bottom: 2.5rem; width: 100%; background-color: white; border-radius: 1rem; overflow: hidden;}
+  .jv-job-list tbody tr {display: flex; flex-direction: horizontal; justify-content: space-between; width: 100%; padding-bottom: 0.5rem; padding-top: 0.5rem; padding-left: 1rem; border-bottom: solid 1px #F2F2F2;}
+  .jv-job-list tbody tr:hover {background-color: #F2F2F2;}
+  .jv-job-list tbody {width: 100%;}
+  .jv-job-list-location {text-align: right;font-size: 1rem; padding-right: 1rem;}
+	.jv-job-list-name a {color: #475467 !important; font-weight: 500; text-decoration: none; font-size: 1.125rem; padding: 0rem !important; background-color: transparent !important; border-radius: 0vw; font-weight: 600; font-size: 1rem; text-decoration: none; margin: 0rem !important;}
+	.jv-page-content hr {opacity: 0%; display: none;}
+  .jv-page-content p {font-size: 0.875rem;}
+  .jv-page-content p a {padding: 0rem; color: #0752e5; background-color: transparent; padding: 0rem; border-radius: 0vw; font-weight: 500; font-size: 0.875rem; text-decoration: underline; margin: 0rem;}
+	.jv-page-content a { background-color: #c3fde3; color: #044225; padding-top: 0.55rem; padding-bottom: 0.55rem; padding-right: 1rem; padding-left: 1rem; border-radius: 99vw; font-weight: 600; font-size: 1rem; text-decoration: none; line-height: 1.5; display: inline-block; margin-top: 1rem; margin-right: 0.5rem;}
+	.jv-footer {display: none;}
+	.jv-page-container 	{}
+	.jv-page 			{ }
+	.jv-page-content 	{ }
+	.jv-page-header 	{ }
+	.jv-page-body 		{ }
+	.jv-wrapper 		{ }
+	.jv-footer 			{ }
+
+
+
+/* ===== JOB LISTINGS PAGE  =================== */ 
+	
+	.jv-page-error 		{ }
+	.jv-page-body h2 	{ }
+
+	
+	h3.h2     			{  }
+	.jv-job-list  		{ }
+	.jv-job-list th  	{ }
+	.jv-job-list td  	{ }
+	.jv-job-list .jv-job-list-name  		{ }
+	.jv-job-list .jv-job-list-location  	{ }
+
+
+
+
+
+
+/* ========== JOB DETAILS PAGE =============== */ 
+	
+	h2.jv-header 	{}
+
+	.jv-job-detail-meta,
+	.jv-apply-meta    		{}
+
+
+	.jv-button { }
+	.jv-button-primary { }
+
+	.jv-current-openings 	{ }
+	.jv-share-widget 		{ }
+
+	.jv-job-detail-bottom-actions,
+	.jv-apply-form-actions 	{ }
+
+
+
+
+
+
+/* ========== APPLY PAGE ====================== */ 
+	
+	.jv-form 				{}
+	.jv-apply-form 			{}
+	.jv-search-form 		{}
+
+	.jv-apply-step 			{}
+	.jv-apply-section 		{}
+	.jv-step-header 		{} 		/* Section Title */
+	.jv-required-label 		{}
